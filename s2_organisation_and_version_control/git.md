@@ -41,7 +41,11 @@ That said we will be using git and github throughout this course. It is a requir
 you create a public repository with your code and use git to upload any code changes. How much you choose to integrate
 this into your own projects depends, but you are at least expected to be familiar with git+github.
 
-## Initial configure
+<<<<<<< HEAD
+## Initial configuration
+=======
+## Initial configuration
+>>>>>>> 61ae9024f657abc09e9039ca354abc9d8c69e34d
 
 1. [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer and make sure
    that your installation is working by writing `git help` in a terminal and it should show you the help message for git.
